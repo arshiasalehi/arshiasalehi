@@ -1,7 +1,7 @@
 Hello, I'm Arshia Salehi<br/>
 a passionate and proactive problem-solver dedicated to leveraging technology to create innovative and efficient solutions.<br/>
 Explore my work and skills below.<br/>
-portfoilio : https://arshiasalehi.github.io/portfolio/<br/>
+portfoilio : https://arshiasalehi.netlify.app/<br/>
 linkedin : https://www.linkedin.com/in/arshia-salehi/<br/>
 
 ## 🌐 Socials:
